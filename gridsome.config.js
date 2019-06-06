@@ -5,6 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Anne Bouchara',
+  siteDescription: 'Site personnel d’Anne Bouchara',
+  siteUrl: 'https://www.annebouchara.fr',
+  titleTemplate: '%s · Anne Bouchara',
   plugins: []
 }
