@@ -8,7 +8,9 @@
       </h1>
     </header>
 
-    <slot/>
+    <main class="content mb-24 lg:mb-48">
+      <slot/>
+    </main>
 
     <footer
       class="courier nice-type text-gray-600 text-sm md:text-base leading-normal"
@@ -64,8 +66,15 @@ query {
 }
 
 .layout {
+  display: flex;
+  flex-direction: column;
   max-width: 760px;
   margin: 0 auto;
+  min-height: 100vh;
+}
+
+.content {
+  flex-grow: 1;
 }
 </style>
 
