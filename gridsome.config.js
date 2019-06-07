@@ -9,5 +9,9 @@ module.exports = {
   siteDescription: 'Site personnel d’Anne Bouchara',
   siteUrl: 'https://www.annebouchara.fr',
   titleTemplate: '%s · Anne Bouchara',
-  plugins: []
+  plugins: [
+    {
+      use: 'gridsome-plugin-tailwindcss'
+    }
+  ]
 }

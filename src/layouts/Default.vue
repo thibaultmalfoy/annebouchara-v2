@@ -1,9 +1,10 @@
 <template>
   <div class="layout">
-    <header class="header">
-      <strong>
+    <header class="flex justify-between items-center py-4 mb-4">
+      <h1>
         <g-link to="/">{{ $static.metaData.siteName }}</g-link>
-      </strong>
+      </h1>
+
       <nav class="nav">
         <g-link class="nav__link" to="/">Home</g-link>
         <g-link class="nav__link" to="/about">About</g-link>
@@ -21,27 +22,18 @@ query {
 }
 </static-query>
 
-<style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
+<style lang="postcss">
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
 
 .layout {
   max-width: 760px;
   margin: 0 auto;
   padding-left: 20px;
   padding-right: 20px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
 }
 
 .nav__link {
