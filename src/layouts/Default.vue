@@ -9,6 +9,10 @@
     </header>
 
     <slot/>
+
+    <footer
+      class="courier nice-type text-gray-600 text-sm md:text-base leading-normal"
+    >© Anne Bouchara, 2016&ndash;{{ date }}.</footer>
   </div>
 </template>
 
@@ -34,8 +38,19 @@ query {
   font-weight: normal;
 }
 
+@font-face {
+  font-family: Courier Prime Sans;
+  src: url("../assets/courier-prime-sans.woff2") format("woff2"),
+    url("../assets/courier-prime-sans.woff") format("woff");
+  font-weight: normal;
+}
+
 .salome {
   font-family: "Salome", serif;
+}
+
+.courier {
+  font-family: "Courier Prime Sans", courier, monospace;
 }
 
 .fancy-type {
@@ -53,3 +68,11 @@ query {
   margin: 0 auto;
 }
 </style>
+
+<script>
+export default {
+  created: function() {
+    this.date = new Date().getFullYear();
+  }
+};
+</script>
