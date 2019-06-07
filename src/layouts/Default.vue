@@ -27,12 +27,6 @@ query {
 </static-query>
 
 <style lang="postcss">
-@tailwind base;
-
-@tailwind components;
-
-@tailwind utilities;
-
 @font-face {
   font-family: Salome;
   src: url("../assets/salome-webfont.woff2") format("woff2"),
