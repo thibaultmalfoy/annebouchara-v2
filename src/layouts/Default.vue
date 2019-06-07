@@ -32,6 +32,23 @@ query {
   src: url("../assets/fonts/salome-webfont.woff2") format("woff2"),
     url("../assets/fonts/salome-webfont.woff") format("woff");
   font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Spectral;
+  src: url("../assets/fonts/spectral-regular.woff2") format("woff2"),
+    url("../assets/fonts/spectral-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Spectral;
+  src: url("../assets/fonts/spectral-italic.woff2") format("woff2"),
+    url("../assets/fonts/spectral-italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
 }
 
 @font-face {
@@ -39,10 +56,15 @@ query {
   src: url("../assets/fonts/courier-prime-sans.woff2") format("woff2"),
     url("../assets/fonts/courier-prime-sans.woff") format("woff");
   font-weight: normal;
+  font-style: normal;
 }
 
 .salome {
-  font-family: "Salome", serif;
+  font-family: "Salome", Georgia, "Times New Roman", Times, serif;
+}
+
+.spectral {
+  font-family: "Spectral", Georgia, "Times New Roman", Times, serif;
 }
 
 .courier {
