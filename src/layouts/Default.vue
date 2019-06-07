@@ -29,15 +29,15 @@ query {
 <style lang="postcss">
 @font-face {
   font-family: Salome;
-  src: url("../assets/salome-webfont.woff2") format("woff2"),
-    url("../assets/salome-webfont.woff") format("woff");
+  src: url("../assets/fonts/salome-webfont.woff2") format("woff2"),
+    url("../assets/fonts/salome-webfont.woff") format("woff");
   font-weight: normal;
 }
 
 @font-face {
   font-family: Courier Prime Sans;
-  src: url("../assets/courier-prime-sans.woff2") format("woff2"),
-    url("../assets/courier-prime-sans.woff") format("woff");
+  src: url("../assets/fonts/courier-prime-sans.woff2") format("woff2"),
+    url("../assets/fonts/courier-prime-sans.woff") format("woff");
   font-weight: normal;
 }
 
