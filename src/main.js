@@ -10,4 +10,9 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('Layout', DefaultLayout)
 
   head.htmlAttrs = { lang: 'fr-FR' }
+
+  head.meta.push({
+    name: 'keywords',
+    content: 'Anne Bouchara, Nouvelles, Histoires, Littérature'
+  })
 }
