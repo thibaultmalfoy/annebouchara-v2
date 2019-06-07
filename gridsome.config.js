@@ -12,6 +12,28 @@ module.exports = {
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss'
-    }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/**/*.md',
+        typeName: 'Content',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        modulePath: `src/admin/index.js`,
+        configPath: `src/admin/config.yml`,
+        htmlPath: `src/admin/index.html`,
+        publicPath: `/admin`,
+        htmlTitle: 'Éditeur'
+      }
+    },
   ]
 }
