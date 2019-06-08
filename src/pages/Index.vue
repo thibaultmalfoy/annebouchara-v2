@@ -17,6 +17,7 @@ query Posts {
       node { 
         id
         title
+        date
       }
     }
   }
