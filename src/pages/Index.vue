@@ -5,7 +5,9 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores</p>
 
     <div v-for="edge in $page.posts.edges" :key="edge.node.id">
-      <h2>{{ edge.node.title }}</h2>
+      <h2>
+        <g-link :to="edge.node.path">{{ edge.node.title }}</g-link>
+      </h2>
     </div>
   </Layout>
 </template>
@@ -16,6 +18,7 @@ query Posts {
     edges {
       node { 
         id
+        path
         title
         date
       }
