@@ -1,14 +1,16 @@
 <template>
-  <div class="layout px-4">
-    <header class="mt-6 mb-24 lg:mb-48">
+  <div class="flex flex-col min-h-screen container mx-auto px-4">
+    <header class="mt-6 mb-3l md:mb-6l">
       <h1
-        class="salome fancy-type font-normal text-gray-900 text-2xl md:text-3xl lg:text-5xl text-center leading-none"
+        class="salome fancy-type font-normal text-gray-800 text-3xl md:text-5xl text-center leading-none"
       >
         <g-link to="/">{{ $static.metaData.siteName }}</g-link>
       </h1>
     </header>
 
-    <main class="content mb-24 lg:mb-48">
+    <main
+      class="content flex-grow spectral nice-type text-gray-900 text-2xl leading-normal mb-24 lg:mb-48"
+    >
       <slot/>
     </main>
 
@@ -81,16 +83,18 @@ query {
   font-feature-settings: "kern", "liga", "clig", "calt", "onum";
 }
 
-.layout {
-  display: flex;
-  flex-direction: column;
-  max-width: 760px;
-  margin: 0 auto;
-  min-height: 100vh;
+.content p {
+  margin-bottom: 2.25rem;
+  max-width: 34em;
 }
 
-.content {
-  flex-grow: 1;
+.content time {
+}
+
+.content hr {
+  overflow: auto;
+  visibility: hidden;
+  margin: 3.375rem 0;
 }
 </style>
 
