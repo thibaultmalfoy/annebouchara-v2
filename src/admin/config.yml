@@ -6,9 +6,9 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 
 collections:
-  - name: "content"
-    label: "Content"
-    folder: "content"
+  - name: "posts"
+    label: "Post"
+    folder: "posts"
     create: true
     slug: "{{slug}}"
     fields:
