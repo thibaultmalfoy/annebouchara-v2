@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: thibaultmalfoy/annebouchara-v2
 
 media_folder: "static/uploads"
