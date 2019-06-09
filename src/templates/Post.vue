@@ -1,10 +1,14 @@
 <template>
   <Layout>
-    <article>
+    <article class="flex flex-col">
       <h1
         class="salome text-gray-800 text-2xl md:text-3xl lg:text-4xl leading-tight mb-1l md:mb-3l"
       >{{ $page.post.title }}</h1>
-      <time :datetime="$page.post.date">{{ $page.post.date }}</time>
+      <time
+        class="order-first courier text-gray-600 text-sm md:text-base lg:text-lg leading-none"
+        :datetime="$page.post.date"
+      >{{ formatDate($page.post.date) }}</time>
+
       <div v-html="$page.post.content"/>
     </article>
   </Layout>
@@ -22,6 +26,12 @@ query Post ($id: String!) {
 
 <script>
 export default {
+  methods: {
+    formatDate(v) {
+      const date = new Date(v);
+      return `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`;
+    }
+  },
   metaInfo() {
     return {
       title: this.$page.post.title

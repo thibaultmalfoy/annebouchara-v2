@@ -88,9 +88,6 @@ query {
   max-width: 34em;
 }
 
-.content time {
-}
-
 .content hr {
   overflow: auto;
   visibility: hidden;
