@@ -1,0 +1,11 @@
+---
+title: Il n’aura eu que les chaussures
+date: 2017-06-26
+excerpt: Elle entre dans le métro ligne quatre à Saint-Germain-des-Près. Très lookée. Rouge à lèvres vif. Chanel ?
+---
+
+Elle entre dans le métro ligne quatre à Saint-Germain-des-Près. Très lookée. Rouge à lèvres vif. Chanel ? Piercings dans les oreilles et au-dessus de la lèvre supérieure. Grands yeux verts comme l’eau d’un cénote mexicain. Cheveux bruns lissés. Vêtements noirs. Aux pieds, des baskets dont la languette se termine par un gros panda en peluche. Elle s’assied près de la fenêtre dans un carré de quatre sièges. En diagonale est installé Mathieu. Avec son téléphone, il prend les baskets en photo. Un commentaire, c’est envoyé. À qui ? Facebook ? Snapchat ? Instagram ? Au monde entier ? On n’aura que les chaussures, comme des doudous au bout des pieds. Mais pas ces lèvres charnues et dessinées en rouge, pas ces yeux peints en noir qui sautent, sourient et interrogent. Pas ces longs cheveux bruns maltraités par un fer à lisser trop chaud. Quelques secondes : les chaussures panda. Le monde entier est au courant. Et le reste, tout le reste ? Cet air provocateur, un peu hautain puis souriant, la couleur changeante de ces yeux ? Beaucoup de gens ont les yeux gris quand le temps est gris et bleus quand il fait beau. Il semble que les yeux de cette jeune femme prennent la couleur de ses pensées.
+
+Elle n’a pas remarqué l’instant photographique. Elle regarde au loin puis scrute les gens autour. Ses yeux s’arrêtent sur ce jeune homme en diagonale la tête penchée sur son portable. Il a une carrure sportive. Sa chevelure est blonde, dense et ondulée. Derrière de longs cils clairs apparaissent de grands yeux bleus, vifs et doux. Son nez légèrement retroussé dévie imperceptiblement sur la gauche. Son visage est fin et sa mâchoire, légèrement carrée. Il sourit en tapotant sur son téléphone. De temps en temps, sa mèche blonde tombe devant ses yeux. Il la relève d’un léger souffle en avançant sa lèvre inférieure. Il doit avoir dans les vingt-cinq ans, comme elle. Les commentaires affluent sur le portable de Mathieu : « Je veux les mêmes ;) », « Lol », « C’est improbable ! », « Mais qui peut se balader avec ça ? ». Tiens oui, qui ? Mathieu relève les yeux, la fille a disparu. Il n’aura eu que les chaussures.
+
+> [Suite et fin…](/txt/les-chaussures-panda)
