@@ -2,7 +2,7 @@
   <Layout>
     <article class="flex flex-col">
       <h1
-        class="salome text-gray-800 text-2xl md:text-3xl lg:text-4xl leading-tight mb-1l md:mb-3l"
+        class="salome text-gray-800 text-2xl md:text-3xl lg:text-4xl leading-tight"
       >{{ $page.post.title }}</h1>
       <time
         class="order-first courier text-gray-600 text-sm md:text-base lg:text-lg leading-none"

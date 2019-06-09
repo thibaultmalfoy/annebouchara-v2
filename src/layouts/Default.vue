@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col min-h-screen container mx-auto px-4">
-    <header class="mt-6 mb-3l md:mb-6l">
+    <header class="header">
       <h1
         class="salome fancy-type font-normal text-gray-800 text-3xl md:text-5xl text-center leading-none"
       >
@@ -9,13 +9,13 @@
     </header>
 
     <main
-      class="content flex-grow spectral nice-type text-gray-900 text-lg md:text-xl lg:text-2xl leading-normal mb-3l md:mb-6l"
+      class="content flex-grow spectral nice-type text-gray-900 text-lg md:text-xl lg:text-2xl leading-normal"
     >
       <slot/>
     </main>
 
     <footer
-      class="courier nice-type text-gray-600 text-sm md:text-base leading-normal"
+      class="footer courier nice-type text-gray-600 text-sm md:text-base leading-normal"
     >© Anne Bouchara, 2016&ndash;{{ date }}.</footer>
   </div>
 </template>
@@ -29,6 +29,10 @@ query {
 </static-query>
 
 <style lang="postcss">
+:root {
+  --leading: 1.6875rem;
+}
+
 @font-face {
   font-family: Salome;
   src: url("../assets/fonts/salome-webfont.woff2") format("woff2"),
@@ -83,32 +87,52 @@ query {
   font-feature-settings: "kern", "liga", "clig", "calt", "onum";
 }
 
+.header {
+  margin-top: var(--leading);
+  margin-bottom: calc(3 * var(--leading));
+}
+
+.content {
+  margin-bottom: calc(3 * var(--leading));
+}
+
+.content h1 {
+  margin-bottom: var(--leading);
+}
+
 .content p {
-  margin-bottom: 1.6875rem;
+  margin-bottom: var(--leading);
   max-width: 34em;
 }
 
 .content hr {
   overflow: auto;
   visibility: hidden;
-  margin: 2.53125rem 0;
+  margin: calc(1.5 * var(--leading)) 0;
+}
+
+.footer {
+  margin-bottom: calc(0.5 * var(--leading));
 }
 
 @media (min-width: 768px) {
-  .content p {
-    margin-bottom: 1.875rem;
+  :root {
+    --leading: 1.875rem;
   }
-  .content hr {
-    margin: 2.8125rem 0;
+  .header {
+    margin-bottom: calc(6 * var(--leading));
+  }
+  .content {
+    margin-bottom: calc(6 * var(--leading));
+  }
+  .content h1 {
+    margin-bottom: calc(3 * var(--leading));
   }
 }
 
 @media (min-width: 1024px) {
-  .content p {
-    margin-bottom: 2.25rem;
-  }
-  .content hr {
-    margin: 3.375rem 0;
+  :root {
+    --leading: 2.25rem;
   }
 }
 </style>
