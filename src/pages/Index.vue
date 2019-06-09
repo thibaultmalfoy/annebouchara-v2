@@ -2,7 +2,7 @@
   <Layout>
     <h1>Bienvenue</h1>
 
-    <p>Découvrez en avant-première mes histoires fantastiques. Abonnez-vous à ma newsletter pour recevoir la prochaine dès parution.</p>
+    <p>Découvrez en avant-première mes histoires fantastiques. Abonnez-vous à ma newsletter pour recevoir la prochaine par email dès parution.</p>
 
     <div v-for="edge in $page.posts.edges" :key="edge.node.id">
       <h2>
