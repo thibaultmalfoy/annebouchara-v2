@@ -9,7 +9,7 @@
     </header>
 
     <main
-      class="content flex-grow spectral nice-type text-gray-900 text-2xl leading-normal mb-24 lg:mb-48"
+      class="content flex-grow spectral nice-type text-gray-900 text-lg md:text-xl lg:text-2xl leading-normal mb-3l md:mb-6l"
     >
       <slot/>
     </main>
@@ -84,7 +84,7 @@ query {
 }
 
 .content p {
-  margin-bottom: 2.25rem;
+  margin-bottom: 1.6875rem;
   max-width: 34em;
 }
 
@@ -94,7 +94,25 @@ query {
 .content hr {
   overflow: auto;
   visibility: hidden;
-  margin: 3.375rem 0;
+  margin: 2.53125rem 0;
+}
+
+@media (min-width: 768px) {
+  .content p {
+    margin-bottom: 1.875rem;
+  }
+  .content hr {
+    margin: 2.8125rem 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .content p {
+    margin-bottom: 2.25rem;
+  }
+  .content hr {
+    margin: 3.375rem 0;
+  }
 }
 </style>
 
