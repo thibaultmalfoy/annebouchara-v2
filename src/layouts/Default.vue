@@ -111,6 +111,28 @@ query {
   margin: calc(1.5 * var(--leading)) 0;
 }
 
+.content blockquote {
+  padding-left: 1rem;
+  border-left: 2px solid #63b3ed;
+  font-style: italic;
+}
+
+.content blockquote cite {
+  display: block;
+  font-size: 1rem;
+  font-style: normal;
+  font-feature-settings: "kern", "c2sc", "smcp", "lnum";
+  letter-spacing: 0.025em;
+}
+
+.content blockquote cite:before {
+  content: "— ";
+}
+
+.content a {
+  border-bottom: 1px solid #63b3ed;
+}
+
 .footer {
   margin-bottom: calc(0.5 * var(--leading));
 }
@@ -128,11 +150,23 @@ query {
   .content h1 {
     margin-bottom: calc(3 * var(--leading));
   }
+  .content blockquote {
+    padding-left: 1.25rem;
+  }
+  .content blockquote cite {
+    font-size: 1.125rem;
+  }
 }
 
 @media (min-width: 1024px) {
   :root {
     --leading: 2.25rem;
+  }
+  .content blockquote {
+    padding-left: 1.5rem;
+  }
+  .content blockquote cite {
+    font-size: 1.25rem;
   }
 }
 </style>
