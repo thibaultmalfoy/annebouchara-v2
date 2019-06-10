@@ -3,6 +3,7 @@ title: Il n’aura eu que les chaussures
 date: 2017-06-26
 excerpt: Elle entre dans le métro ligne quatre à Saint-Germain-des-Près. Très lookée. Rouge à lèvres vif. Chanel ?
 coverImage: /uploads/chaussures.jpeg
+altImage: Jeune homme attendant le métro vu de dos
 ---
 
 Elle entre dans le métro ligne quatre à Saint-Germain-des-Près. Très lookée. Rouge à lèvres vif. Chanel ? Piercings dans les oreilles et au-dessus de la lèvre supérieure. Grands yeux verts comme l’eau d’un cénote mexicain. Cheveux bruns lissés. Vêtements noirs. Aux pieds, des baskets dont la languette se termine par un gros panda en peluche. Elle s’assied près de la fenêtre dans un carré de quatre sièges. En diagonale est installé Mathieu. Avec son téléphone, il prend les baskets en photo. Un commentaire, c’est envoyé. À qui ? Facebook ? Snapchat ? Instagram ? Au monde entier ? On n’aura que les chaussures, comme des doudous au bout des pieds. Mais pas ces lèvres charnues et dessinées en rouge, pas ces yeux peints en noir qui sautent, sourient et interrogent. Pas ces longs cheveux bruns maltraités par un fer à lisser trop chaud. Quelques secondes : les chaussures panda. Le monde entier est au courant. Et le reste, tout le reste ? Cet air provocateur, un peu hautain puis souriant, la couleur changeante de ces yeux ? Beaucoup de gens ont les yeux gris quand le temps est gris et bleus quand il fait beau. Il semble que les yeux de cette jeune femme prennent la couleur de ses pensées.

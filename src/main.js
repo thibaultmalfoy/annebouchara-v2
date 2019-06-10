@@ -15,4 +15,9 @@ export default function (Vue, { router, head, isClient }) {
     name: 'keywords',
     content: 'Anne Bouchara, Nouvelles, Histoires, Littérature'
   })
+
+  head.meta.push({
+    name: 'author',
+    content: 'Anne Bouchara'
+  })
 }

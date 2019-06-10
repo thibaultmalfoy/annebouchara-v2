@@ -3,6 +3,7 @@ title: Les Livres de la bibliothèque
 date: 2018-11-13
 excerpt: J’ai quatre-vingt-un ans. Aujourd’hui, c’est mon anniversaire. Les enfants et petits-enfants sont venus. Ça me fait plaisir.
 coverImage: /uploads/bibliotheque.jpg
+altImage: Livres d’une bibliothèque
 ---
 
 J’ai quatre-vingt-un ans. Aujourd’hui, c’est mon anniversaire. Les enfants et petits-enfants sont venus. Ça me fait plaisir. J’aime quand ils sont là. Lise est assise à côté de moi sur le canapé beige.

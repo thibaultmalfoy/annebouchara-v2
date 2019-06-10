@@ -3,6 +3,7 @@ title: Autoportrait
 date: 2018-03-21
 excerpt: Quand j’étais petite, je n’avais jamais sommeil. Mes parents m’avaient expliqué qu’il fallait dormir pour grandir.
 coverImage: /uploads/anne.jpg
+altImage: Portrait photographique d’Anne Bouchara
 ---
 
 > … comme, dans certaines circonstances, il me faut bien ou rêver, ou agir, je mélange une chose avec l’autre. <cite>Fernando Pessoa, Le Livre de l’intranquillité.</cite>

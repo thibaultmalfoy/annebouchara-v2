@@ -3,6 +3,7 @@ title: "Paris–Quito"
 date: 2017-03-30
 excerpt: "Je me réveille en sursaut dans les draps blancs de mon lit. La lumière du jour diffuse à travers les rideaux tirés. Il doit faire très beau aujourd’hui."
 coverImage: /uploads/paris-quito.jpeg
+altImage: Forêt de bambous vue en contre-plongée
 ---
 
 Je me réveille en sursaut dans les draps blancs de mon lit. La lumière du jour diffuse à travers les rideaux tirés. Il doit faire très beau aujourd’hui. J’aime ces journées d’automne qui ressemblent au printemps. Je me retourne vers la place qu’occupe Alice. Elle n’est pas là. Elle est partie depuis mi-novembre dans la forêt amazonienne pour un voyage humanitaire. Accompagnée de spécialistes et d’autres bénévoles, elle recense les espèces animales de la zone équatoriale. Au lieu de se prélasser au soleil avec des amis, elle préfère dormir sous la tente à côté d’inconnus et arpenter la forêt sous une chaleur étouffante, parmi les sangsues et les araignées venimeuses. C’est entre autres pour cela que j’aime Alice.

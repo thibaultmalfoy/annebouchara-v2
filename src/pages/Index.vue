@@ -4,20 +4,21 @@
 
     <p>Découvrez en avant-première mes histoires fantastiques. Abonnez-vous à ma newsletter pour recevoir la prochaine par email dès parution.</p>
 
-    <div class="grid">
+    <section class="grid">
+      <h2 class="hidden">Mes histoires</h2>
       <div
         v-for="edge in $page.posts.edges"
         :key="edge.node.id"
         class="card shadow-xl hover:shadow-md mx-auto mb-8 md:mb-0"
       >
         <g-link :to="edge.node.path">
-          <img :src="edge.node.coverImage" alt class="p-4">
-          <h2
+          <img :src="edge.node.coverImage" :alt="edge.node.altImage" class="p-4">
+          <h3
             class="courier text-base font-normal leading-tight text-center my-0 px-4"
-          >{{ edge.node.title }}</h2>
+          >{{ edge.node.title }}</h3>
         </g-link>
       </div>
-    </div>
+    </section>
   </Layout>
 </template>
 
@@ -31,6 +32,7 @@ query Posts {
         title
         date
         coverImage
+        altImage
       }
     }
   }

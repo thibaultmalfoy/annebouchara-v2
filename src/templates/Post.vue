@@ -18,6 +18,7 @@
 query Post ($id: String!) {
   post: post (id: $id) {
     title
+    excerpt
     date
     content
   }
@@ -34,7 +35,14 @@ export default {
   },
   metaInfo() {
     return {
-      title: this.$page.post.title
+      title: this.$page.post.title,
+      meta: [
+        {
+          key: "description",
+          name: "description",
+          content: this.$page.post.excerpt
+        }
+      ]
     };
   }
 };

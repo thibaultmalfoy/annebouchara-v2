@@ -16,4 +16,5 @@ collections:
       - {label: "Extrait", name: "excerpt", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "date"}
       - {label: "Photo de couverture", name: "coverImage", widget: "image"}
+      - {label: "Decription de la photo", name: "altImage", widget: "string"}
       - {label: "Corps", name: "body", widget: "markdown"}

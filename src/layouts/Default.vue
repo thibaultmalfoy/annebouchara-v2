@@ -16,7 +16,10 @@
 
     <footer
       class="footer courier nice-type text-gray-600 text-sm md:text-base leading-normal"
-    >© Anne Bouchara, 2016&ndash;{{ date }}.</footer>
+    >
+      <h2 class="hidden">Pied de page</h2>
+      <p>© Anne Bouchara, 2016&ndash;{{ date }}.</p>
+    </footer>
   </div>
 </template>
 

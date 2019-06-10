@@ -3,6 +3,7 @@ title: Cap Dramont
 date: 2017-12-19
 excerpt: J’ai pris dans mes bagages un cahier sur lequel j’écris mes souvenirs de vacances d’été depuis presque vingt ans.
 coverImage: /uploads/cap-dramont.jpeg
+altImage: Vue de la mer par temps calme
 ---
 
 J’ai pris dans mes bagages un cahier sur lequel j’écris mes souvenirs de vacances d’été depuis presque vingt ans. Sur sa couverture, la reproduction d’un visage dessiné au crayon par Matisse : figure féminine, ligne nette du nez et des sourcils, yeux mi-clos, petite bouche à la lèvre inférieure charnue, aucun contour. À l’intérieur, des pages toutes blanches, prêtes à être écrites. Je passe une semaine de vacances à Agay avec quelques amis d’étude. Les parents d’Antoine y ont un appartement dans un quartier résidentiel d’où la plage est accessible à pied en quinze minutes. Pierre est venu aussi. Léa, Mathieu et leur petite Chloé nous ont rejoints pour quelques jours. Au lieu de noter comme d’habitude deux ou trois anecdotes du séjour, ces vacances seront l’occasion d’écrire, de travailler un texte, une nouvelle peut-être. Plus personne aujourd’hui n’écrit sur du papier, mais à l’époque où j’ai acheté ce cahier, si. J’aime dessiner des mots sur la page, entendre le crayon effleurer le papier et faire résonner ces mots dans ma tête.

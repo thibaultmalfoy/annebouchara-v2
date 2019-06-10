@@ -3,6 +3,7 @@ title: Les Chaussures panda
 date: 2017-07-17
 excerpt: Il est dix-huit heures trente. Rien de prévu ce soir. Depuis qu’Aurélie est partie s’installer en Afrique du Sud il y a presque un an…
 coverImage: /uploads/panda.jpeg
+altImage: Couloir d’un bus vu à ras du sol, avec un aperçu des chaussures des passagers de part et d’autre
 ---
 
 > Cette nouvelle est la suite directe de [Il n’aura eu que les chaussures](/txt/il-n-aura-eu-que-les-chaussures).
