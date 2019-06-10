@@ -2,6 +2,7 @@
 title: "Plettenberg Bay"
 date: 2016-10-20
 excerpt: "Une femme prend chaque matin le RER pour aller travailler. Pour échapper à ce quotidien, elle se rappelle Plettenberg Bay où vit sa meilleure amie."
+coverImage: /uploads/plettenberg-bay.jpeg
 ---
 
 Ce matin, je monte dans EXIL à la station Cité Universitaire, juste avant que les portes automatiques ne se referment. Je me retrouve coincée tout près d’un homme, jeune et malade. Il est blême. Sa peau, ses cheveux, ses vêtements, tout semble avoir pris une couleur uniforme, beige jaunâtre. Son haleine est nauséabonde et il fait entendre de petits claquements dans le fond de sa gorge. Je ne peux pas bouger, pas la place. Je plonge dans son œsophage, son estomac, ses intestins, son foie malade. J’ai envie de vomir. Tout en essuyant mon front du dos de la main, j’essaie de tourner la tête pour capturer la moindre trace d’air non vicié. Les trois personnes à côté de moi ne semblent pas incommodées. La rame est surchauffée. J’ai pris ma douche il y a à peine une demi-heure et je sens déjà perler sous ma robe des gouttes de sueur.

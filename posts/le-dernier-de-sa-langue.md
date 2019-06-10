@@ -4,6 +4,7 @@ excerpt: >-
   Je parle Français. Enfin, je parle, disons surtout que j’écris. Il n’y a plus
   personne pour parler avec moi.
 date: 2019-06-09T16:05:49.429Z
+coverImage: /uploads/dernier-langue.jpg
 ---
 Je parle Français. Enfin, je parle, disons surtout que j’écris. Il n’y a plus personne pour parler avec moi. C’est une langue très ancienne. Il parait qu’au XIXe siècle, c’était l’une des langues les plus parlées dans le monde. Il y a si longtemps ! Aujourd’hui, même les signes que je trace sont illisibles par la plupart des êtres humains. Quelques personnes parlent encore Anglais mais la plupart des gens qui restent sur Terre, emploient le Chinois, l’Indien ou bien l’Arabe. Toutes ces langues s’écrivent avec des signes que je ne sais pas déchiffrer.
 

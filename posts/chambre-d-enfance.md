@@ -2,6 +2,7 @@
 title: Chambre d’enfance
 date: 2018-12-19
 excerpt: Cela doit faire deux ans que je ne suis pas retournée chez mes parents à Toulouse, enfin, dans la région de Toulouse.
+coverImage: /uploads/chambre-enfance.jpg
 ---
 
 Cela doit faire deux ans que je ne suis pas retournée chez mes parents à Toulouse, enfin, dans la région de Toulouse. Depuis qu’ils sont à la retraite, ils partent souvent en voyage. C’est à l’occasion de leurs passages à Paris, lorsqu’ils viennent prendre un avion pour une destination lointaine, que je les vois le plus souvent à présent.
