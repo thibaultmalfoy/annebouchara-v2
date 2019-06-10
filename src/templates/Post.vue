@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <article class="flex flex-col">
+    <article class="article flex flex-col">
       <h1
         class="salome text-gray-800 text-2xl md:text-3xl lg:text-4xl leading-tight"
       >{{ $page.post.title }}</h1>
@@ -47,3 +47,63 @@ export default {
   }
 };
 </script>
+
+<style>
+.article h1 {
+  margin-bottom: var(--leading);
+}
+
+.article p {
+  margin-bottom: var(--leading);
+  max-width: 34em;
+}
+
+.article hr {
+  overflow: auto;
+  visibility: hidden;
+  margin: calc(1.5 * var(--leading)) 0;
+}
+
+.article blockquote {
+  padding-left: 1rem;
+  border-left: 2px solid #63b3ed;
+  font-style: italic;
+}
+
+.article blockquote cite {
+  display: block;
+  font-size: 1rem;
+  font-style: normal;
+  font-feature-settings: "kern", "c2sc", "smcp", "lnum";
+  letter-spacing: 0.025em;
+}
+
+.article blockquote cite:before {
+  content: "— ";
+}
+
+.article a {
+  border-bottom: 1px solid #63b3ed;
+}
+
+@media (min-width: 768px) {
+  .article h1 {
+    margin-bottom: calc(3 * var(--leading));
+  }
+  .article blockquote {
+    padding-left: 1.25rem;
+  }
+  .article blockquote cite {
+    font-size: 1.125rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .article blockquote {
+    padding-left: 1.5rem;
+  }
+  .article blockquote cite {
+    font-size: 1.25rem;
+  }
+}
+</style>
