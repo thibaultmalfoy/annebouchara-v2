@@ -25,7 +25,7 @@ Au lieu de rencontrer des inconnues, il pourrait écrire un mail à Aurélie, lu
 
 Il s’imagine dans quelques années lorsqu’il pensera à cette période de la fin des études. Il se souviendra des pots avec ses amis, des parties de foot aux arènes de Lutèce, de séances de course à pieds au parc Montsouris avec Antoine, de répétitions et des représentations théâtrales avec Alice. Mathieu est un nostalgique du futur, un jeune homme du futur antérieur. Il aime se perdre dans les nombreux lendemains possibles. Il imagine qu’Aurélie repassera à Paris et lui dira qu’elle l’aime, que la fille aux chaussures panda sera assise en face de lui dans le métro ce soir. Peut-être vivra-t-il avec l’une d’entre elles dans son deux-pièces de la rue Montbrun ? Parfois il pense que Lise, moins impétueuse, mais sûrement plus fine, plus belle et plus intelligente, sera un jour dans sa vie. Il se demande à quoi ressembleront ses enfants et même s’il en aura un jour. Il invente les prénoms de ceux qu’il aura ou qu’il aurait eus avec telle ou telle : Ulysse, Jeanne, Adèle… Il imagine leur visage. 
 
-—---
+----
 
 Comme tous les matins, Mathieu reprend le métro à Alésia. Ne plus regarder son portable, c’est décidé. Il regardera les gens. Qu’y a-t-il dans ces yeux qui se ferment ? Qu’y a-t-il dans ce demi-sourire ? Qu’y a-t-il dans cette bouche qui se tord ? Qu’y a-t-il dans ces doigts qui pianotent sur un sac à main posé sur les genoux ? Qu’y a-t-il dans tous ces êtres ? Qu’y a-t-il dans toutes ces âmes ? Un monsieur chauve en imperméable beige, assis sur le strapontin en face, feuillette un document professionnel. Il porte des lunettes. Deux places derrière lui est assis un homme du même âge, le crâne tout aussi lisse, le même vêtement sans âge et consultant lui aussi des feuillets. Les deux hommes ne se voient pas, impossible. Et au même moment, ils sortent de leur poche un mouchoir en papier et se mouchent bruyamment. Dans un film, cela aurait paru burlesque. Mais comme c’est la réalité, cela fait sourire Mathieu.
 
@@ -35,7 +35,7 @@ Le soir en reprenant le métro pour rentrer chez lui, il décide d’envoyer un 
 
 Mathieu a pris l’habitude de photographier les passages de livres qu’il aime. De temps en temps, il les relit. Son grand-oncle, dont il est très proche, garde dans sa mémoire des poèmes ou des extraits de livres. De temps en temps il les lui récite. Mathieu quand il veut se rappeler un passage est obligé de pencher la tête en avant vers son téléphone. Il voit les mots plus qu’il ne les entend. Il se frotte les yeux dans la clarté bleutée de l’écran. À vingt-cinq ans, Mathieu a déjà mal au dos, en haut du dos, aux cervicales, à force de garder son cou tendu vers l’écran de son téléphone. Il pourrait regarder autour de lui, au loin, entendre les mots dans sa tête, regarder le ciel de Paris au-dessus des toits, lorsqu’il devient orangé en fin de journée. Tout en récitant ces quelques vers de Verlaine s’il les savait par cœur, il observerait le peuplier face à sa fenêtre se balancer doucement dans le vent. Dans la lumière du soir, en ce début d’automne, ses feuilles commencent à jaunir.
 
-—---
+----
 
 Mathieu repense souvent aux chaussures Panda. « Qui peut bien porter ça ? » L’image du visage de leur propriétaire est sûrement rangée dans un recoin de son cerveau. Mais elle n’est ni sur Instagram, ni sur Snapshat, ni sur Facebook. Elle n’est pas non plus dans Google lorsqu’il tape « qui peut bien porter ça ? » et « chaussures panda ». Il se souvient du bas d’un pantalon noir, d’une silhouette sombre. Mais le reste ? En reprenant le métro ce matin pour aller au laboratoire, il regarde les pieds de tous les voyageurs.
 
@@ -43,15 +43,15 @@ Elle avait dû descendre entre Saint-Placide et Vavin. Ce soir, sur le chemin du
 
 En rentrant chez lui, il se replonge dans son téléphone, appelé par cette extension de son bras qui ne demande qu’à être allumé. Il va sur YouTube. Il sait qu’au lieu de regarder les derniers buzz et clash télévisuels, mosaïque d’informations et d’instants coupés de leur contexte, il pourrait regarder un film. Il souhaite depuis longtemps regarder tous les films d’Hitchcock, mais il ne le fait pas. Ou bien il pourrait commencer à lire *L’Herbe rouge* de Boris Vian que lui a prêté son frère. Pour l’instant, regarder les infos de la journée, pas longtemps, juste un quart d’heure. Il est 21 h 32. À 21 h 50, il aura terminé et pourra enfin commencer ce livre qui traîne dans sa sacoche depuis une semaine. Un regard rapide en bas à droite de l’écran : il est 21 h 37. Allez, encore quelques minutes, le temps de regarder cette autre vidéo proposée par YouTube. Celle-ci paraît intéressante et celle-là doit être drôle. Tiens, il ne connaissait pas cet humoriste. Il vérifie l’heure : 23 h 18. Dégoûté de ce temps englouti, il va se coucher.
 
-—---
+----
 
 Le soir suivant et les autres soirs de la semaine, après sa journée de travail au laboratoire, il ne peut s’empêcher de nouveau de descendre à chaque station et regarder les chaussures des voyageurs. La semaine suivante est identique. Il refuse des pots avec Pierre, Antoine et les autres, prétexte une course urgente, invente une fuite d’eau dans son appartement et un rendez-vous avec le plombier. Il décline des cinémas avec Lise, refuse un concert avec Antoine et Alice mi-novembre. Il prétexte trop de travail.
 
-—---
+----
 
 Au bout de trois semaines, en prenant l’ascenseur pour rentrer chez lui, il se regarde dans le miroir. Sa peau est pâle, presque translucide. Sa quête vaine a dessiné des cernes gris sur son visage. Rentré chez lui, il se connecte sur AdopteUnMec. Une très jolie brune aux yeux verts étonnés l’a mis dans son panier. Dans son panier ! Il sait le ridicule de la situation, mais se met à discuter avec Léa. Elle s’intéresse beaucoup à la musique et joue elle-même du violoncelle. Après quelques jours de discussion, elle lui propose de se rencontrer. Mathieu lui suggère d’aller prendre un pot sur la Butte-aux-Cailles où il aime aller avec ses amis. 
 
-—---
+----
 
 Le soir suivant, lorsqu’il entre à La Folie en tête, il la voit, déjà installée à une table au fond du bar. Elle est en train de lire un flyer qu’elle tient à la main. Ses cheveux qu’elle a lissés ce soir encadrent son visage clair et ses yeux verts éclairent ses longs cils maquillés. Il parvient à se souvenir qu’elle s’appelle Léa, mais a dû mal à se concentrer sur la conversation. De nouveau, il pense à Aurélie, à ses cheveux blonds vénitiens, contraste absolu avec les cheveux noirs de Léa, si noirs qu’ils en sont presque bleus. Il pense à Aurélie, il pense aux chaussures panda, il pense à nouveau à Aurélie qui porterait des chaussures panda sur une plage de Plettenberg Bay. Il revoit l’image d’Aurélie allongée à côté de John, il se souvient avec honte de ses soirées gâchées à regarder les pieds des voyageurs. Il lève la tête vers Léa. Ses yeux sont magnifiques. On dirait un paysage d’eau et de verdure. Elle est belle Léa, très belle d’ailleurs, mais pas comme sur les photos des publicités. Il remarque sa voix grave et très douce, ses phrases qui traînent un peu sur la fin, marque d’un souci de bien se faire comprendre de son interlocuteur. Les filles sur les photos ne parlent pas. 
 

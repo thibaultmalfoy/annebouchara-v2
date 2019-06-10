@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col min-h-screen container mx-auto px-4">
+  <div class="flex flex-col min-h-screen max-w-5xl mx-auto px-4 md:px-8 lg:px-12">
     <header class="header">
       <h1
         class="salome fancy-type font-normal text-gray-800 text-3xl md:text-5xl text-center leading-none"

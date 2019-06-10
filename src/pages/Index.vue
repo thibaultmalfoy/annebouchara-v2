@@ -4,10 +4,19 @@
 
     <p>Découvrez en avant-première mes histoires fantastiques. Abonnez-vous à ma newsletter pour recevoir la prochaine par email dès parution.</p>
 
-    <div v-for="edge in $page.posts.edges" :key="edge.node.id">
-      <h2>
-        <g-link :to="edge.node.path">{{ edge.node.title }}</g-link>
-      </h2>
+    <div class="grid">
+      <div
+        v-for="edge in $page.posts.edges"
+        :key="edge.node.id"
+        class="card shadow-xl hover:shadow-md mx-auto mb-8 md:mb-0"
+      >
+        <g-link :to="edge.node.path">
+          <img :src="edge.node.coverImage" alt class="p-4">
+          <h2
+            class="courier text-base font-normal leading-tight text-center my-0 px-4"
+          >{{ edge.node.title }}</h2>
+        </g-link>
+      </div>
     </div>
   </Layout>
 </template>
@@ -21,6 +30,7 @@ query Posts {
         path
         title
         date
+        coverImage
       }
     }
   }
@@ -34,3 +44,25 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.card {
+  width: 18rem;
+  height: 23rem;
+}
+
+@media (min-width: 768px) {
+  .grid {
+    display: grid;
+    grid-gap: 2rem;
+    grid-template-columns: repeat(2, 18rem);
+    justify-content: center;
+  }
+}
+
+@media (min-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(3, 18rem);
+  }
+}
+</style>
