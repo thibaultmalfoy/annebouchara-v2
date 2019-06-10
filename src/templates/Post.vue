@@ -58,6 +58,10 @@ export default {
   max-width: 34em;
 }
 
+.article p:last-child {
+  margin-bottom: 0;
+}
+
 .article hr {
   overflow: auto;
   visibility: hidden;

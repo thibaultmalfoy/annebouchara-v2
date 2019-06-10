@@ -14,6 +14,8 @@
       <slot/>
     </main>
 
+    <Mailchimp class="form"/>
+
     <footer class="footer courier nice-type text-gray-600 text-sm md:text-base leading-normal">
       <h2 class="hidden">Pied de page</h2>
       <p>© Anne Bouchara, 2016&ndash;{{ date }}.</p>
@@ -108,6 +110,10 @@ query {
   max-width: 34em;
 }
 
+.form {
+  margin-bottom: calc(3 * var(--leading));
+}
+
 .footer {
   margin-bottom: calc(0.5 * var(--leading));
 }
@@ -117,9 +123,6 @@ query {
     --leading: 1.875rem;
   }
   .header {
-    margin-bottom: calc(6 * var(--leading));
-  }
-  .content {
     margin-bottom: calc(6 * var(--leading));
   }
 }
@@ -132,7 +135,12 @@ query {
 </style>
 
 <script>
+import Mailchimp from "../components/Mailchimp.vue";
+
 export default {
+  components: {
+    Mailchimp
+  },
   created: function() {
     this.date = new Date().getFullYear();
   }
