@@ -111,7 +111,7 @@ query {
 }
 
 .form {
-  margin-bottom: calc(3 * var(--leading));
+  margin-bottom: calc(6 * var(--leading));
 }
 
 .footer {
