@@ -70,6 +70,7 @@ export default {
 
 .article blockquote {
   padding-left: 1rem;
+  margin-bottom: var(--leading);
   border-left: 2px solid #63b3ed;
   font-style: italic;
 }
