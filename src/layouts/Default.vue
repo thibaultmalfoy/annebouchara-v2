@@ -14,6 +14,8 @@
       <slot/>
     </main>
 
+    <g-image class="monogram mx-auto" src="~/assets/img/anne-logo.png" width="128"/>
+
     <Mailchimp class="form"/>
 
     <footer class="footer courier nice-type text-gray-600 text-sm md:text-base leading-normal">
@@ -114,6 +116,10 @@ query {
   margin-bottom: calc(6 * var(--leading));
 }
 
+.monogram {
+  margin-bottom: calc(6 * var(--leading));
+}
+
 .footer {
   margin-bottom: calc(0.5 * var(--leading));
 }
@@ -124,6 +130,9 @@ query {
   }
   .header {
     margin-bottom: calc(6 * var(--leading));
+  }
+  .form {
+    margin-bottom: calc(3 * var(--leading));
   }
 }
 
