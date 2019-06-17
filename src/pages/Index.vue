@@ -2,7 +2,7 @@
   <Layout>
     <h1>Bienvenue</h1>
 
-    <p>Découvrez en avant-première mes histoires fantastiques. Abonnez-vous à ma newsletter pour recevoir la prochaine par email dès parution.</p>
+    <p>Découvrez en avant-première mes nouvelles. Abonnez-vous à ma newsletter pour recevoir la prochaine par email dès parution.</p>
 
     <section class="grid">
       <h2 class="hidden">Mes histoires</h2>
