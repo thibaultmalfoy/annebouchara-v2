@@ -16,7 +16,7 @@
 
     <div class="flex flex-col sm:flex-row">
       <input
-        class="block sm:max-w-sm w-full bg-blue-100 spectral nice-type italic text-grey-900 text-lg py-2 px-3 mb-2 sm:mb-0 rounded border-2 border-gray-400 appearance-none focus:outline-none focus:border-blue-500"
+        class="block sm:max-w-sm w-full bg-blue-100 spectral nice-type italic text-grey-900 text-lg py-2 px-3 mb-2 sm:mb-0 rounded border-2 border-gray-400 appearance-none focus:outline-none focus:border-blue-500 focus:bg-white"
         id="mce-EMAIL"
         name="EMAIL"
         type="email"
