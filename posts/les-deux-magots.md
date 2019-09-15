@@ -1,5 +1,5 @@
 ---
-title: LES DEUX MAGOTS
+title: Les Deux Magots
 excerpt: >-
   Le bus 21 emprunte le boulevard Saint-Michel. C’est un matin de fin d’été, un
   matin de septembre. Le ciel bleu sculpte les immeubles beiges et les rend plus
