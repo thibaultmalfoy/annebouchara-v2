@@ -17,7 +17,6 @@ date: 2019-09-15T20:48:05.847Z
 coverImage: /uploads/les-deux-magots.jpg
 altImage: Café Les Deux Magots
 ---
-LES DEUX MAGOTS
 
 Le bus 21 emprunte le boulevard Saint-Michel. C’est un matin de fin d’été, un matin de septembre. Le ciel bleu sculpte les immeubles beiges et les rend plus lumineux, presque blancs. Sous cette clarté, leur forme parait plus nette comme si l’on passait d’une image en deux dimensions à une vision en relief. Dans la rue, vus du bus : une fille qui porte un pull violet, des touristes en short Boulevard Saint-Michel, beaucoup de monde aux terrasses des cafés de la Place de la Sorbonne, un jeune homme à vélo qui porte des lunettes rectangulaires, un vieux prof traînant un énorme cartable, un monsieur un peu trop gros pour son costume gris clair, des pharmacies et des librairies pour se soigner, une femme qui porte des chaussures rouges. Je vais assister à la soutenance de stage d’une étudiante à la Faculté de Médecine, rue de L’École-de-Médecine (j’aime la logique des noms des rues anciennes).
 
