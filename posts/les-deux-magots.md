@@ -53,7 +53,10 @@ Dans mon nouveau quartier, je suis réellement au XXIème siècle. Finies les tr
 Les quais de Seine ont remplacé le Parc Montsouris comme terrain de course à pieds. Je vais chez d’autres commerçants, dîne dans d’autres restaurants, chez Yuman ou Persillé. Je vais au théâtre au bout de la rue du Chevaleret, non plus au Théâtre 13 du début des années 80 près du métro Glacière, mais à l’autre Théâtre 13, celui construit dans les années 2010. Depuis que je vis dans mon temps, depuis que je vis dans le temps, je n’ai jamais autant écrit. Je me suis mise à écrire l’histoire de jumeaux, des faux-jumeaux, à qui il arrive des aventures loufoques et joyeuses.
 
 Hier soir, je sors de la station Bibliothèque François-Mitterrand. Une silhouette familière dans la rue : c’est Julien. Notre relation s’était effilochée dans le sel de la Méditerranée mais de loin en loin, nous avons continué à nous donner des nouvelles. Cela fait plusieurs années que je ne l’ai pas vu. Je marche à sa rencontre. Lorsque je l’appelle, il se retourne et m’adresse un grand sourire, surpris. Il ne savait pas que j’habitais ce quartier. Il est venu pour deux jours à Paris. Il va changer de métier et revenir vivre ici. Aujourd’hui et demain, il rencontre les personnes de sa future boîte et commence à chercher un appartement. Je comprends dans la conversation qu’il est de nouveau célibataire.
+
 — Quand vas-tu revenir à Paris ?
+
 Nos pieds ne remuent pas dans l’eau, ils sont bien à plat sur le sol de Paris, sur le trottoir de l’Avenue de France.
+
 — Je commence le 20 février. J’arriverai au début du mois pour emménager.
 Un large sourire dessine son visage et se reflète sur le mien.
