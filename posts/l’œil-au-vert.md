@@ -1,5 +1,5 @@
 ---
-title: L’ŒIL AU VERT
+title: 'L’Œil au Vert '
 excerpt: >-
   De la table du restaurant français à laquelle je suis assis, j’ai vue sur
   Madison Avenue. En face, la boutique porte l’enseigne The Corner Bookstore
@@ -8,7 +8,7 @@ excerpt: >-
   l’ardoise dans la vitrine sur laquelle est notée chaque jour une nouvelle
   citation, la porte de bois peinte en vert, invitent à y entrer. 
 date: 2019-11-07T15:25:33.098Z
-coverImage: /uploads/bookshop-1759619_1920.jpg
+coverImage: /uploads/illustration-l-oeil-au-vert.jpg
 altImage: Librairie
 ---
 De la table du restaurant français à laquelle je suis assis, j’ai vue sur Madison Avenue. En face, la boutique porte l’enseigne _The Corner Bookstore_ parce que c’est le magasin de livres du coin de la rue. Dans mon quartier, la librairie du coin de la rue s’appelle _L’Œil au vert_. La lumière orangée, l’ardoise dans la vitrine sur laquelle est notée chaque jour une nouvelle citation, la porte de bois peinte en vert, invitent à y entrer. Le soir, en rentrant chez moi depuis la station Cité Universitaire, au lieu de passer à la boulangerie ou à la fromagerie, je m’arrête parfois ici. Le libraire lui-même ne connaît pas l’origine du nom de sa boutique. Vient-il de la couleur verte de la devanture ? De la verdure toute proche du Parc Montsouris ? Peut-être _L’Œil au vert_ signifie-t-il que l’œil “se met au vert”, au repos, qu’il lit tranquillement au lieu de s’abîmer dans l’agitation du monde. Sur l’une des avenues les plus connues de New-York, s’affiche fièrement sur la devanture d’une librairie : _The Corner Bookstore_. Un nom d’une simplicité qu’on ne peut trouver qu’ici. C’est pour cela que j’aime l’Amérique. Je ne me perds pas dans la poésie de _L’Œil au vert_ mais je me promène dans un livre d’enfants, dans des dessins animés, dans le rêve simple. Ce doit être cela, l’American Dream.
