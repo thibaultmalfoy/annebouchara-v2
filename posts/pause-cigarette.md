@@ -1,5 +1,5 @@
 ---
-title: PAUSE CIGARETTE
+title: Pause cigarette
 excerpt: >-
   Quand je monte sur le chantier, je suis le roi du monde. Tout seul là-haut,
   sur les toits de la cathédrale, c'est la plus belle vue de Paris. La Seine
