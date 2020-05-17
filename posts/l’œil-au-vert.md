@@ -1,12 +1,11 @@
 ---
-title: 'L’Œil au Vert '
-excerpt: >-
-  De la table du restaurant français à laquelle je suis assis, j’ai vue sur
-  Madison Avenue. En face, la boutique porte l’enseigne The Corner Bookstore
+title: "L’Œil au Vert "
+excerpt: "De la table du restaurant français à laquelle je suis assis, j’ai vue
+  sur Madison Avenue. En face, la boutique porte l’enseigne The Corner Bookstore
   parce que c’est le magasin de livres du coin de la rue. Dans mon quartier, la
   librairie du coin de la rue s’appelle L’Œil au vert. La lumière orangée,
   l’ardoise dans la vitrine sur laquelle est notée chaque jour une nouvelle
-  citation, la porte de bois peinte en vert, invitent à y entrer. 
+  citation, la porte de bois peinte en vert, invitent à y entrer. "
 date: 2019-11-07T15:25:33.098Z
 coverImage: /uploads/illustration-l-oeil-au-vert.jpg
 altImage: Librairie
@@ -17,7 +16,7 @@ Il était encore tôt ce soir lorsque je suis arrivé dans le quartier. Avant d�
 
 _The Corner Bookstore_ est une vaste librairie. Au plafond, des luminaires de style Art Nouveau ; on se croirait il y a un siècle. Beaucoup de New-Yorkais, de voyageurs étrangers ou Américains qui passent par Madison Avenue la fréquentent. À l’écart des stations de métro et des rues passantes de Paris, les clients de _L’Œil au vert_ sont les habitants de ce quartier calme des abords du Parc Montsouris. En attendant mon plat au Bistro du Nord, je feuillette mon carnet de vie à la recherche de la première fois où je suis entré à _L’Œil au vert_. C’était peu de temps après mon embauche aux laboratoires Darieux. Mon trajet à pieds jusqu’à la station de RER m’obligeait à passer devant. Auparavant, je n’allais jamais de ce côté de la rue. Lorsqu’on habite près des lisières de la ville, on a tendance à se diriger vers son centre et non vers sa périphérie, de peur de se perdre dans ses limbes.
 
-Un soir, la semaine de mon embauche, je suis entré à _L’Œil au vert_. Il faisait froid. Alice était morte depuis seulement deux mois et demi, la réalité s’était échappée et je m’étais enfoui dans la rédaction de ma thèse. J’étais à peine remonté à la surface de la vie et je commençais mon premier emploi. J’avais du mal à reprendre mon souffle. La douce lumière orangée de la librairie qui diffusait ce soir-là dans la rue, comme si elle sortait comme d’une maison, m’a incité à y entrer. J’ai baissé la poignée et une petite cloche installée en haut de la porte a tinté. La boutique m’est apparue comme un abri tapissé de livres, calfeutrage de papiers et de mots. Il y avait deux clients à l’intérieur. L’un était à la caisse, en train de payer à une jeune femme dont on voyait à peine le visage au milieu de son épaisse chevelure brune. L’autre client cherchait un livre au rayon Policier. Le gérant de la librairie, un homme assez âgé, impressionnant par sa haute silhouette un peu voûtée et son air d’être ailleurs, disposait des livres au rayon Étranger.
+Un soir, la semaine de mon embauche, je suis entré à _L’Œil au vert_. Il faisait froid. Alice était morte depuis seulement deux mois et demi, la réalité s’était échappée et je m’étais enfoui dans la rédaction de ma thèse. J’étais à peine remonté à la surface de la vie et je commençais mon premier emploi. J’avais du mal à reprendre mon souffle. La douce lumière orangée de la librairie qui diffusait ce soir-là dans la rue, comme si elle sortait d’une maison, m’a incité à y entrer. J’ai baissé la poignée et une petite cloche installée en haut de la porte a tinté. La boutique m’est apparue comme un abri tapissé de livres, calfeutrage de papiers et de mots. Il y avait deux clients à l’intérieur. L’un était à la caisse, en train de payer à une jeune femme dont on voyait à peine le visage au milieu de son épaisse chevelure brune. L’autre client cherchait un livre au rayon Policier. Le gérant de la librairie, un homme assez âgé, impressionnant par sa haute silhouette un peu voûtée et son air d’être ailleurs, disposait des livres au rayon Étranger.
 
 J’ai commencé à travailler aux Laboratoires Darieux le lundi 1er février 2016, l’une de ces dates dont on se souviendra toute sa vie. Date de mon entrée dans la “vie active” comme on dit, comme si ma vie d’avant ou ma vie d’à côté ne l’était pas. Lieu de travail agréable, aménagé avec du mobilier de designers contemporains, des canapés colorés, des coins-détente. L’espace extérieur agencé comme un parc parfaitement entretenu. Mais tout autour, des grilles, partout des grilles et des portillons automatiques. Interdiction de sortir, comme d’une prison. Plus tard, j’entendrai une collègue parler de “la vie à l’extérieur” comme si nous étions réellement détenus. Le 1er février 2016 apparait d’une drôle de couleur dans ma mémoire : une date mordorée, à la fois sombre et lumineuse.
 
