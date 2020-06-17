@@ -1,18 +1,17 @@
 ---
 title: Les Deux Magots
-excerpt: >-
-  Le bus 21 emprunte le boulevard Saint-Michel. C’est un matin de fin d’été, un
-  matin de septembre. Le ciel bleu sculpte les immeubles beiges et les rend plus
-  lumineux, presque blancs. Sous cette clarté, leur forme parait plus nette
-  comme si l’on passait d’une image en deux dimensions à une vision en relief.
-  Dans la rue, vus du bus : une fille qui porte un pull violet, des touristes en
-  short Boulevard Saint-Michel, beaucoup de monde aux terrasses des cafés de la
-  Place de la Sorbonne, un jeune homme à vélo qui porte des lunettes
+excerpt: "Le bus 21 emprunte le boulevard Saint-Michel. C’est un matin de fin
+  d’été, un matin de septembre. Le ciel bleu sculpte les immeubles beiges et les
+  rend plus lumineux, presque blancs. Sous cette clarté, leur forme parait plus
+  nette comme si l’on passait d’une image en deux dimensions à une vision en
+  relief. Dans la rue, vus du bus : une fille qui porte un pull violet, des
+  touristes en short Boulevard Saint-Michel, beaucoup de monde aux terrasses des
+  cafés de la Place de la Sorbonne, un jeune homme à vélo qui porte des lunettes
   rectangulaires, un vieux prof traînant un énorme cartable, un monsieur un peu
   trop gros pour son costume gris clair, des pharmacies et des librairies pour
   se soigner, une femme qui porte des chaussures rouges. Je vais assister à la
   soutenance de stage d’une étudiante à la Faculté de Médecine, rue de
-  L’École-de-Médecine (j’aime la logique des noms des rues anciennes).
+  L’École-de-Médecine (j’aime la logique des noms des rues anciennes)."
 date: 2019-09-15T20:48:05.847Z
 coverImage: /uploads/les-deux-magots.jpg
 altImage: Café Les Deux Magots
@@ -21,7 +20,7 @@ altImage: Café Les Deux Magots
 Le bus 21 emprunte le boulevard Saint-Michel. C’est un matin de fin d’été, un matin de septembre. Le ciel bleu sculpte les immeubles beiges et les rend plus lumineux, presque blancs. Sous cette clarté, leur forme parait plus nette comme si l’on passait d’une image en deux dimensions à une vision en relief. Dans la rue, vus du bus : une fille qui porte un pull violet, des touristes en short Boulevard Saint-Michel, beaucoup de monde aux terrasses des cafés de la Place de la Sorbonne, un jeune homme à vélo qui porte des lunettes rectangulaires, un vieux prof traînant un énorme cartable, un monsieur un peu trop gros pour son costume gris clair, des pharmacies et des librairies pour se soigner, une femme qui porte des chaussures rouges. Je vais assister à la soutenance de stage d’une étudiante à la Faculté de Médecine, rue de L’École-de-Médecine (j’aime la logique des noms des rues anciennes).
 
 Il fait toujours aussi beau lorsque j’en ressors. Je vais prendre le métro boulevard Saint-Germain pour aller à l’Institut Larolle. J’ai démissionné des Laboratoires Darieux ; le RER B m’était devenu insupportable. A la terrasse des Deux Magots, les gens prennent l’air et le temps. Peut-être sont-ils écrivains, journalistes, comédiens, peut-être sont-ils entrepreneurs ? Ils ne sont certainement pas salariés. Il est dix heures moins le quart du matin, et à dix heures moins le quart du matin, les salariés sont encore enfermés dans le vacarme et la puanteur des souterrains, déjà dans leur bureau ou devant leur machine à café.
-Si j’étais écrivaine, je serais assise à la terrasse des Deux Magots. Je trouve ce mot étrange, “écrivaine”. Il est plus rare qu’”écrivain”. Pourtant il est sûrement plus juste car on y entend le mot “vaine” qui nous rappelle la vanité de ce qu’on peut écrire. “Écrivain” est si courant qu’on a oublié qu’il contenait “vain”. Si j’étais écrivaine, je commanderais un expresso. Un serveur déposerait sur ma table un café surmonté d’une fine mousse beige dans une tasse blanche posée sur une sous-tasse de la même couleur. Y seraient déposés une cuillère à café en inox dans laquelle se reflèterait la rue toute entière, un morceau de sucre de canne et un spéculos. Je regarderais passer cette femme qui porte un manteau avec de gros motifs pied-de-poule, j’écouterais le bruit des voitures, j’entendrais la conversation de ses dames âgées dont l’une dit : « Ma belle-fille a lu Proust et la notice de sa machine à laver »  — ou peut-être n’aurais-je pas bien entendu. Je laisserais le temps se délier puis je prendrais un deuxième café. Le deuxième café, synonyme de vacances. Le deuxième café, lorsqu’on n’a rien de prévu ou beaucoup plus tard. Le luxe extrême du deuxième café. Un soir à la radio, un écrivain dit que si l’on veut vraiment être écrivain, on le devient. Cela me redonne l’espoir, un matin de septembre, de prendre un deuxième café à la terrasse des Deux Magots.
+Si j’étais écrivaine, je serais assise à la terrasse des Deux Magots. Je trouve ce mot étrange, “écrivaine”. Il est plus rare qu’”écrivain”. Pourtant il est sûrement plus juste car on y entend le mot “vaine” qui nous rappelle la vanité de ce qu’on peut écrire. “Écrivain” est si courant qu’on a oublié qu’il contenait “vain”. Si j’étais écrivaine, je commanderais un expresso. Un serveur déposerait sur ma table un café surmonté d’une fine mousse beige dans une tasse blanche posée sur une sous-tasse de la même couleur. Y seraient déposés une cuillère à café en inox dans laquelle se reflèterait la rue toute entière, un morceau de sucre de canne et un spéculos. Je regarderais passer cette femme qui porte un manteau avec de gros motifs pied-de-poule, j’écouterais le bruit des voitures, j’entendrais la conversation de ces dames âgées dont l’une dit : « Ma belle-fille a lu Proust et la notice de sa machine à laver »  — ou peut-être n’aurais-je pas bien entendu. Je laisserais le temps se délier puis je prendrais un deuxième café. Le deuxième café, synonyme de vacances. Le deuxième café, lorsqu’on n’a rien de prévu ou beaucoup plus tard. Le luxe extrême du deuxième café. Un soir à la radio, un écrivain dit que si l’on veut vraiment être écrivain, on le devient. Cela me redonne l’espoir, un matin de septembre, de prendre un deuxième café à la terrasse des Deux Magots.
 
 Que vais-je devenir lorsque j’aurai mille fois arpenté les couloirs des mêmes métros ? Lorsque j’aurai mille fois repris le métro le soir ? Que vais-je devenir lorsque de nouveau fleuriront les arbres ? Lorsqu’un nouvel été aura succédé à celui-ci ? Le travail continue à soustraire le temps. Régulièrement, dans mon cahier, j’écris des listes de choses à faire : aller chez le coiffeur, appeler Aurélie, faire un cake à la banane (parce que mes bananes ont trop mûri). A intervalle d’années plus ou moins régulier, j’établis d’autres listes : changer de travail, trouver un appartement, trouver un amoureux, devenir écrivaine. Comme si à chaque nouvelle décennie je redémarrais mon âge adulte. La seule chose qui reste inaccomplie, c’est « devenir écrivaine ». Lorsque je publierai mon premier livre, la vie se déroulera peut-être, telle la tige d’une plante recroquevillée en spirale qui se déploie soudainement, comme dans certains documentaires naturalistes filmés en accéléré.
 
