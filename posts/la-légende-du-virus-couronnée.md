@@ -1,5 +1,5 @@
 ---
-title: La Légende du Virus couronnée
+title: La Légende du Virus couronné
 excerpt: La légende raconte qu’il est alors arrivé pour nous sauver. Un genre de
   roi, si j’ai bien compris, mais minuscule. Si minuscule qu’il en était
   invisible. C’était le Virus couronné. Il ne nous attaquait presque pas, nous
