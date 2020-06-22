@@ -8,8 +8,6 @@ date: 2020-06-22T19:30:50.415Z
 coverImage: /uploads/la-légende-du-virus-couronné.jpg
 altImage: Couronne
 ---
-LA LÉGENDE DU VIRUS COURONNÉ
-
 La légende raconte qu’en une époque très lointaine, les êtres humains pouvaient vivre vieux, très vieux. Beaucoup avaient les cheveux qui devenaient blancs. Certains même les perdaient. Leur peau se fripait, un peu comme celle des nouveau-nés. Ils ressemblaient à de grands bébés voutés.
 
 Aujourd’hui, nous avons quelques vieux sages, bien sûr. Mais la plupart des gens s’en vont dans l’Autre Monde vers l’âge de 40 ans. Tout commence par une petite toux. Quand ils marchent longtemps, ils sont un peu essoufflés. Après quelques semaines, on dit qu’une nuit, ils font ce rêve : ils vivent dans les fonds marins. Dans le rêve, ils arrivent à respirer grâce à un masque qu’un grand tuyau relie à la surface. Ils flottent paisiblement dans les eaux, s’y déplaçant en trois dimensions aussi aisément que si c’était leur milieu naturel. Puis, soudainement, l’extrémité du tuyau qui relie leur masque à la surface s’enfonce dans l’eau. Dans leur rêve, les dormeurs s’étouffent. Dans la réalité aussi. Sûrement qu’au moment de leur mort, ils pensent que ce n’est qu’un rêve. Quelques-uns ont réussi à se réveiller, à reprendre leur respiration et c’est toujours ce même rêve qu’ils racontent. La plupart d’entre nous ont moins de 40 ans. Nous vivons avec la nature et les saisons. Nous honorons les morts, qui continuent de nous accompagner. 
