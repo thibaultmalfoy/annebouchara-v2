@@ -1,5 +1,5 @@
 ---
-title: Le Saladier de Fraises
+title: Le Saladier de fraises
 excerpt: Ce soir, il fait beau, je prépare des fraises pour le dessert. Il est
   rare que je prenne le temps de faire à manger pour John et moi. Les petits
   déjeuners du bed and breakfast me prennent déjà beaucoup de temps. Je me lève
