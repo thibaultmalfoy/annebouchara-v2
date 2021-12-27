@@ -1,5 +1,5 @@
 ---
-title: RIEN N'EST VRAI, TOUT EST PERMIS
+title: Rien n'est vrai, tout est permis
 excerpt: Je suis historien de la période du Grand Vide. Le principal sujet de
   recherche de mon équipe consiste à comprendre comment la population humaine a
   subitement décru à partir du XXI ème siècle de l’ère chrétienne.
