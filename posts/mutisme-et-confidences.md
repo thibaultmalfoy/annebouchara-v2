@@ -12,6 +12,6 @@ Vrombissement des sèche-cheveux, cliquetis des lames de ciseaux, bruit du jet d
 
 Une dame aux cheveux courts parsemés de mèches blond platine est en grande conversation avec son coiffeur. Je n’entends rien de leurs paroles. Le visage de la femme affiche tantôt une moue de dégoût, tantôt un sourire. Parfois le coiffeur se penche vers son oreille ; est-ce pour mieux ajuster la coupe ou pour répondre à une confidence ?
 
-Je ne parle à ma coiffeuse que pour échanger quelques politesses et l’orienter dans son travail sans la déconcentrer. Dans le miroir, une affiche publicitaire porte le nom de l’enseigne du salon. Elle est écrite à l’envers. Dans le miroir, mon visage aussi est écrit à l’envers. Le monde entier y est écrit à l'envers.
+Je ne parle à ma coiffeuse que pour répondre à ses questions qui l'orienteront dans son travail. Elle reste concentrée. Dans le miroir, une affiche publicitaire porte le nom de l’enseigne du salon, écrite à l’envers. Face à moi, mon visage aussi est écrit à l’envers, comme le monde.
 
 À un moment, l’ensemble des sèche-cheveux se tait et j’entends très distinctement la femme aux mèches blondes dire au coiffeur : “J’ai souvent peur de…”. La fin de sa phrase est absorbée par le vrombissement qui reprend.
