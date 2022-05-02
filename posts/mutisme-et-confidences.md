@@ -1,5 +1,5 @@
 ---
-title: Mutisme et Confidences
+title: À l’envers
 excerpt: Vrombissement des sèche-cheveux, cliquetis des lames de ciseaux, bruit
   du jet d’eau dans le bac à shampoing, atmosphère un peu moite du salon malgré
   la porte maintenue ouverte pour aérer ; un grand miroir me fait face. Il
