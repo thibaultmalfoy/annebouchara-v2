@@ -20,7 +20,7 @@ Le surlendemain, dans le métro, comme tous les matins depuis le début de la pa
 
 Il ne me reste que trois stations avant d’arriver à l’Institut Larolle. Je reprends la lecture d’un livre de poésie. Quand je lève les yeux de mon livre, ma gorge se serre au point que ma respiration en est coupée. Devant moi, se trouve une colonie d’insectes géants. Certains sont debout, une patte accrochée à la barre centrale de la rame, leurs yeux démesurés remplissant leur tête sans visage. Tous semblent indifférents à ma présence. Aucune menace de leur part et pourtant, mes membres se mettent à trembler. On arrive à une station, je me précipite vers la porte. Sur le quai et dans les escaliers, se pressent des cafards géants qui se montent sur le dos les uns des autres. J'attends que cette masse grouillante ait progressé vers l'extérieur avant de m'engager à mon tour dans l'escalier.
 
-Dehors, j’ai du mal à reprendre mon souffle. J'ai l’impression que ma cage thoracique est en feu. Je me tiens à la rambarde de la station, essaie de faire entrer le maximum d’air dans mes poumons. Je relève les yeux, les gens vont et viennent dans l’agitation matinale. Je reprends peu à peu ma respiration. 
+Dehors, j’ai du mal à reprendre mon souffle. J'ai l’impression que ma cage thoracique est en feu. Je me tiens à la rambarde entourant la bouche de métro. J'essaie de faire entrer de l'air dans mes poumons. Je relève les yeux, les gens vont et viennent dans l’agitation matinale. Je reprends peu à peu ma respiration. 
 
 Certaines personnes descendent les marches de la bouche de métro. En bas, dans l’obscurité, je ne distingue plus très bien leur forme.
  
