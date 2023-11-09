@@ -8,7 +8,7 @@ date: 2023-10-14T20:15:41.787Z
 coverImage: /uploads/eclipse.jpg
 altImage: Eclipse
 ---
-On est vendredi soir, il est vingt heures. L’air est doux, presque chaud. J’ai juste enfilé une veste légère sur mon haut sans manche, au cas où la soirée fraîchisse. Rue de Tolbiac, les gens s’agitent dans la première soirée du week-end. Quelques jeunes, sortis en groupe, se hèlent d’une voix forte. La vitesse des passants et le vrombissement du moteur des voitures traduisent l’excitation de la fin de la semaine et d’une soirée qui s’annonce longue. Chaussée de mes nus-pieds couleur cuir, je marche jusqu’à la station de métro. Les boutiques sont en train de fermer. Quelqu’un se penche sous le rideau de fer de la boulangerie, à moitié baissé. Il n’aura pas de pain ce soir. C’est agréable de sentir l’air si doux des soirées de juin.
+On est vendredi soir, il est vingt heures. L’air est doux, presque chaud. J’ai juste enfilé une veste légère sur mon haut sans manche, au cas où la soirée fraîchisse. Rue de Tolbiac, les gens s’agitent dans la première soirée du week-end. Quelques jeunes, sortis en groupe, se hèlent d’une voix forte. La vitesse des passants et le vrombissement du moteur des voitures traduisent l’excitation de la fin de la semaine et d’une soirée qui s’annonce longue. Chaussée de mes nu-pieds couleur cuir, je marche jusqu’à la station de métro. Les boutiques sont en train de fermer. Quelqu’un se penche sous le rideau de fer de la boulangerie, à moitié baissé. Il n’aura pas de pain ce soir. C’est agréable de sentir l’air si doux des soirées de juin.
 
 
 
@@ -16,7 +16,7 @@ Pourtant, les lampadaires sont déjà allumés et les arrêts de bus éclairés.
 
 
 
-L’air doux semble être celui d’un mois de juin finissant mais nous sommes le 30 septembre. Il devrait faire jour si c’était l’été, mais le jour et la nuit se confondent comme le font les saisons. Bientôt, nous changerons d’heure. Le soleil se couchera à 18h, puis 17h30 et 17h. Chausserai-je toujours mes nus-pieds, comme si nous étions dans un mois de juin éternel, comme si la nuit se déversait sur des soirées d’été ?
+L’air doux semble être celui d’un mois de juin finissant mais nous sommes le 30 septembre. Il devrait faire jour si c’était l’été, mais le jour et la nuit se confondent comme le font les saisons. Bientôt, nous changerons d’heure. Le soleil se couchera à 18h, puis 17h30 et 17h. Chausserai-je toujours mes nu-pieds, comme si nous étions dans un mois de juin éternel, comme si la nuit se déversait sur des soirées d’été ?
 
 
 
